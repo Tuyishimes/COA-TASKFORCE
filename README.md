@@ -42,3 +42,18 @@ The CSS package is responsible for styling the HTML content, ensuring compatibil
 
 The Assets package houses all the necessary images and resources utilized within the project. Specifically, it contains a collection of images essential for populating the interactive photo gallery created in accordance with the Figma designs. These images are carefully selected to enhance the visual appeal of the gallery and provide users with an engaging browsing experience. By organizing images within the Assets package, the project maintains a structured and centralized repository, facilitating easy access and management of resources. This ensures seamless integration of visuals into the HTML content and enables efficient loading of images across different devices and screen sizes, contributing to the overall responsiveness and performance of the web application.
 
+#------------------------------------------
+##Coding Challenges explaintion
+In completing the coding challenge, i utilized Javascript, as required. My primary Developemnt environment was VS code, which provifed a conductive workspace for writing and testing Javascript code. Vs code's build-in functionality facilitated the execution and testing of solution of the give challenges. 
+
+
+##To run solutions:
+1. Ensure you have Node.js installed on your system. If not, you can download and install it from the official Node.js website.
+2. Open the JavaScript file containing the solutions in your preferred code editor, such as VS Code.
+3. Use the terminal or command prompt to navigate to the directory containing the JavaScript file.
+4. Run the JavaScript file using Node.js by typing the command `node Name of file `, (Name of file ) replace with the name of the JavaScript file containing the solution with 'js'.
+5. Review the output in the terminal or command prompt to see the results of the executed solution.
+6. Remember to provide input in file solution. 
+
+
+##Thank you! 
